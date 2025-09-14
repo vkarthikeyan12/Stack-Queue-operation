@@ -79,3 +79,6 @@ Enter your choice:
 ## 👨‍💻 Author
 - Written in **Fortran 90**
 - Example program for **Data Structures (Stack & Queue)**
+
+## Screenshot
+![screenshot](screenshot.png)
